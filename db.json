@@ -1,0 +1,81 @@
+{
+  "data" : [
+    {
+      "creatorName": "John Doe",
+      "creatorProfileImagelink": "https://bestprofilepictures.com/wp-content/uploads/2021/08/Amazing-Profile-Picture-for-Facebook.jpg",
+      "clipHead": "Amazing Product Demo",
+      "clipDescription": "Check out this awesome product in action!",
+      "sellerName": "Best Deals Inc.",
+      "productName": "SuperGadget 2000",
+      "productId": "100",
+      "likeCount": 42,
+      "category": "electronics",
+      "target": ["customers", "reviewers"],
+      "videoLink": [
+        "https://www.youtube.com/watch?v=2nK6WBcGPOw",
+        "https://www.youtube.com/watch?v=Op4EMZXWjyE"
+      ],
+      "targetLocation": ["USA", "Canada"]
+    },
+    {
+      "creatorName": "Jane Smith",
+      "creatorProfileImagelink": "https://bestprofilepictures.com/wp-content/uploads/2021/08/Amazing-Profile-Picture.jpg",
+      "clipHead": "Unboxing and Review",
+      "clipDescription": "I'm excited to share my thoughts on this product!",
+      "sellerName": "TechTreasures Ltd.",
+      "productName": "WonderWidget Pro",
+      "productId": "101",
+      "likeCount": 17,
+      "category": "gadgets",
+      "target": ["followers", "subscribers"],
+      "videoLink": ["https://www.youtube.com/watch?v=vgm1u2gPxzw"],
+      "targetLocation": ["UK", "Australia"]
+    },
+    {
+        "creatorName": "Alex Brown",
+        "creatorProfileImagelink": "https://bestprofilepictures.com/wp-content/uploads/2021/04/Cool-Profile-Picture-For-Youtube-960x1024.jpg",
+        "clipHead": "Cooking Masterclass",
+        "clipDescription": "Learn how to prepare a delicious meal with our new cookbook!",
+        "sellerName": "FoodFusion Recipes",
+        "productName": "Gourmet Delights Cookbook",
+        "productId": "102",
+        "likeCount": 126,
+        "category": "cooking",
+        "target": ["food enthusiasts", "cooking students"],
+        "videoLink": ["https://www.youtube.com/watch?v=lzEop75AeOk"],
+        "targetLocation": ["USA", "India"]
+      },
+      {
+      "creatorName": "Sarah Johnson",
+      "creatorProfileImagelink": "https://images.unsplash.com/photo-1518806118471-f28b20a1d79d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80",
+      "clipHead": "Fitness Challenge",
+      "clipDescription": "Join me in this 30-day fitness challenge to stay active and healthy!",
+      "sellerName": "FitZone",
+      "productName": "FitLife Challenge",
+      "productId": "103",
+      "likeCount": 73,
+      "category": "fitness",
+      "target": ["fitness enthusiasts", "wellness community"],
+      "videoLink": ["https://www.youtube.com/watch?v=wO5j3lv_9Fs"],
+      "targetLocation": ["Canada", "Australia"]
+    },
+    {
+      "creatorName": "Mark Rodriguez",
+      "creatorProfileImagelink": "https://wallpapercave.com/wp/wp4041550.jpg",
+      "clipHead": "Travel Vlog",
+      "clipDescription": "Exploring the beautiful landscapes of Southeast Asia on a budget.",
+      "sellerName": "Wanderlust Adventures",
+      "productName": "Budget Travel Guide",
+      "productId": "104",
+      "likeCount": 91,
+      "category": "travel",
+      "target": ["travel enthusiasts", "backpackers"],
+      "videoLink": [
+        "https://www.youtube.com/watch?v=eizmCZv3aKI",
+        "https://www.youtube.com/watch?v=Q-GOFPM01d0",
+        "https://www.youtube.com/watch?v=sVzKavzIKDI"
+      ],
+      "targetLocation": ["All"]
+    }
+  ]
+}
